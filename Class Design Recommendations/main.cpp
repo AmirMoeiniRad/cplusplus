@@ -12,6 +12,7 @@ using namespace std;
 // (3) Use 'camel notation' style for member variables.
 // (4) Start method names with a capital letter and use 'pascal notation' for method names.
 // (5) Start accessor method names with 'Set' & 'Get'.
+
 class Cat
 {
     public:
